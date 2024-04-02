@@ -24,7 +24,7 @@
     "font-awesome": "4.7.0",
     "intl-relativeformat": "^6.2.2",
     "mermaid": "^8.1.0",
-    "prismjs": "1.17.1",
+    "prismjs": "1.29.0",
     "react": "16.10.2",
     "react-burger-menu": "^2.6.10",
     "react-canvas-draw": "^1.0.2",
@@ -41,6 +41,6 @@
     "@storybook/addon-viewport": "5.2.6",
     "@storybook/cli": "5.2.6",
     "@storybook/react": "5.2.6",
-    "babel-loader": "8.0.6"
+    "babel-loader": "8.3.0"
   }
 }
